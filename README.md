@@ -4,12 +4,12 @@
 
 ## 🔗 Links
 
-[![portfolio](https://img.shields.io/badge/my_portfolio-fff?style=for-the-badge&logo=ko-fi&logoColor=000)](https://katherineoelsner.com/)
-[![linkedin](https://img.shields.io/badge/linkedin-fff?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/muhammet-%C3%B6zt%C3%BCrk-85939a241/)
-[![twitter](https://img.shields.io/badge/twitter-fff?style=for-the-badge&logo=twitter&logoColor=0080ff)](https://twitter.com/)
-[![Instagram](https://img.shields.io/badge/Instagram-fff?style=for-the-badge&logo=Instagram&logoColor=pruple)](https://Instagram.com/)
-[![youtube](https://img.shields.io/badge/youtube-fff?style=for-the-badge&logo=youtube&logoColor=FF0000)](https://www.youtube.com/@Furchtlosdunkel)
-[![dıscord](https://img.shields.io/badge/Discord-fff?style=for-the-badge&logo=discord&logoColor=000)](https://discord.com/)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=fff)](https://katherineoelsner.com/)
+[![linkedin](https://img.shields.io/badge/linkedin-000?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/muhammet-%C3%B6zt%C3%BCrk-85939a241/)
+[![twitter](https://img.shields.io/badge/twitter-000?style=for-the-badge&logo=twitter&logoColor=0080ff)](https://twitter.com/)
+[![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=Instagram&logoColor=pruple)](https://Instagram.com/)
+[![youtube](https://img.shields.io/badge/youtube-000?style=for-the-badge&logo=youtube&logoColor=FF0000)](https://www.youtube.com/@Furchtlosdunkel)
+[![dıscord](https://img.shields.io/badge/Discord-000?style=for-the-badge&logo=discord&logoColor=fff)](https://discord.com/)
 
 ## Other Common Github Profile Sections
 👩‍💻 I'm currently working on everything
