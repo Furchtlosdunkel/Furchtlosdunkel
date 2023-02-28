@@ -23,7 +23,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Furchtlosdunkel&layout=compact)](https://github.com/Furchtlosdunkel)
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/Furchtlosdunkel)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Furchtlosdunkel&hide=javascript,html)](https://github.com/Furchtlosdunkel)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Furchtlosdunkel&repo=github-readme-stats)](https://github.com/Furchtlosdunkel)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Furchtlosdunkel&repo=github-readme-stats)](https://github.com/Furchtlosdunkel?tab=repositories)
 <!-- 
 📊 &nbsp;**This week I spent my time on**
 ![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=Furchtlosdunkel&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777) -->
