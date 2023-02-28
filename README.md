@@ -19,11 +19,11 @@
 🤔 How can I develop in the fastest and best way? What do I need to learn?
 
 # 
-[![ istatistik](https://github-readme-stats.vercel.app/api?username=Furchtlosdunkel)](https://github.com/Furchtlosdunkel)
+![ Github istatistik](https://github-readme-stats.vercel.app/api?username=Furchtlosdunkel&show_icons=true&theme=vision-friendly-dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Furchtlosdunkel&layout=compact)](https://github.com/Furchtlosdunkel)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/Furchtlosdunkel)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Furchtlosdunkel&hide=javascript,html)](https://github.com/Furchtlosdunkel)
 
-#
-
-)
 <!-- 
 📊 &nbsp;**This week I spent my time on**
 ![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=Furchtlosdunkel&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777) -->
