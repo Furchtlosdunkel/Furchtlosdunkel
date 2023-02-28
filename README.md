@@ -21,7 +21,7 @@
 # 
 ![ Github istatistik](https://github-readme-stats.vercel.app/api?username=Furchtlosdunkel&show_icons=true&theme=vision-friendly-dark)
 #
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/Furchtlosdunkel)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Furchtlosdunkel)](https://github.com/Furchtlosdunkel)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Furchtlosdunkel&layout=compact)](https://github.com/Furchtlosdunkel)
 
 
