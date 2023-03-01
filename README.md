@@ -21,11 +21,7 @@
 # 
 ![ Github istatistik](https://github-readme-stats.vercel.app/api?username=Furchtlosdunkel&show_icons=true&theme=vision-friendly-dark)
 #
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Furchtlosdunkel)](https://github.com/Furchtlosdunkel)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Furchtlosdunkel)](https://github.com/Furchtlosdunkel)
-
-
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Furchtlosdunkel&exclude_repo=github-readme-stats,anuraghazra.github.io_icons=true&theme=vision-friendly-dark)
 
 <!-- 
 📊 &nbsp;**This week I spent my time on**
