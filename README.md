@@ -6,7 +6,7 @@
 [![twitter](https://img.shields.io/badge/twitter-000?style=for-the-badge&logo=twitter&logoColor=0080ff)](#)
 [![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=Instagram&logoColor=pruple)](#)
 [![youtube](https://img.shields.io/badge/youtube-000?style=for-the-badge&logo=youtube&logoColor=FF0000)](https://www.youtube.com/@Furchtlosdunkel)
-[![dıscord](https://img.shields.io/badge/Discord-000?style=for-the-badge&logo=discord&logoColor=fff)](𝕱𝖚𝖗𝖈𝖍𝖙𝖑𝖔𝖘𝖉𝖚𝖓𝖐𝖊𝖑#0721)
+[![dıscord](https://img.shields.io/badge/Discord-000?style=for-the-badge&logo=discord&logoColor=fff)](https://discord.gg/6RUmsk5dYe)
 
 #
 
