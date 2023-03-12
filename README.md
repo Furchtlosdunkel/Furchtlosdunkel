@@ -9,6 +9,8 @@
 [![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=Instagram&logoColor=pruple)](#)
 [![youtube](https://img.shields.io/badge/youtube-000?style=for-the-badge&logo=youtube&logoColor=FF0000)](https://www.youtube.com/@Furchtlosdunkel)
 [![dıscord](https://img.shields.io/badge/Discord-000?style=for-the-badge&logo=discord&logoColor=fff)](https://discord.gg/6RUmsk5dYe)
+[![upwork](https://img.shields.io/badge/upwork-000?style=for-the-badge&logo=upwork&logoColor=darkgreen)](https://www.upwork.com/freelancers/~013c7ea9f7b193c795)
+[![fiverr](https://img.shields.io/badge/fiverr-000?style=for-the-badge&logo=fiverr&logoColor=green)](https://www.fiverr.com/furchtlosdunkel?up_rollout=true)
 #
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="start">
