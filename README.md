@@ -3,7 +3,7 @@
 
 
 
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=fff)](#)
+<!-- [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=fff)](#) -->
 [![linkedin](https://img.shields.io/badge/linkedin-000?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/muhammet-%C3%B6zt%C3%BCrk-85939a241/)
 [![twitter](https://img.shields.io/badge/twitter-000?style=for-the-badge&logo=twitter&logoColor=0080ff)](#)
 [![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=Instagram&logoColor=pruple)](#)
