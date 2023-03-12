@@ -33,7 +33,7 @@
 <!-- #
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Furchtlosdunkel&exclude_repo=github-readme-stats,anuraghazra.github.io_icons=true&theme=vision-friendly-dark) -->
 #
- <a href="https://github.com/Furchtlosdunkel"><img alt="Furchtlosdunkel's language used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=furchtlosdunkel&layout=compact&langs_count=8&theme=vision-friendly-dark" width=35%/></a>
+ <a href="https://github.com/Furchtlosdunkel"><img alt="Furchtlosdunkel's language used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=furchtlosdunkel&layout=compact&langs_count=8&theme=vision-friendly-dark"/></a>
 <!-- 
 📊 &nbsp;**This week I spent my time on**
 ![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=Furchtlosdunkel&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777) -->
