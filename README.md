@@ -37,6 +37,6 @@
 
 #
 
-<!--  <a href="https://github.com/Furchtlosdunkel?tab=repositories"><img alt="Furchtlosdunkel's language used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Furchtlosdunkel&layout=compact&langs_count=8&theme=vision-friendly-dark"/></a> -->
+ <a href="https://github.com/Furchtlosdunkel?tab=repositories"><img alt="Furchtlosdunkel's language used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Furchtlosdunkel&layout=compact&langs_count=8&theme=vision-friendly-dark"/></a>
     
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=furchtlosdunkel&langs_count=8&theme=vision-friendly-dark)](https://github.com/Furchtlosdunkel?tab=repositories)
+<!--   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=furchtlosdunkel&langs_count=8&theme=vision-friendly-dark)](https://github.com/Furchtlosdunkel?tab=repositories) -->
